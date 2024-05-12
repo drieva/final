@@ -1,0 +1,16 @@
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.exe
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.deps.json
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.runtimeconfig.json
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.dll
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\bin\Debug\net8.0-windows\WinFormsApp12.pdb
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.csproj.GenerateResource.cache
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.AssemblyInfoInputs.cache
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.AssemblyInfo.cs
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.dll
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\refint\WinFormsApp12.dll
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.pdb
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\WinFormsApp12.genruntimeconfig.cache
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\ref\WinFormsApp12.dll
+C:\Users\imdri\source\repos\WinFormsApp12\WinFormsApp12\obj\Debug\net8.0-windows\TextAdventureGame.Form1.resources
